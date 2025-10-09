@@ -9,5 +9,3 @@ Tecnologias: html. css.
 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Javier0-2&theme=cyber-streakglow&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-## Acknowledgements
-
